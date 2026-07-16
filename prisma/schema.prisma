@@ -1,0 +1,21 @@
+// HamdanMart database schema.
+// SQLite in development; keep everything PostgreSQL-compatible (see DATABASE.md).
+// Full schema (catalog, orders, auth, ...) lands in Phase 2.
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+/// Key-value store settings, managed from the admin dashboard.
+model Setting {
+  key       String   @id
+  value     String
+  updatedAt DateTime @updatedAt
+
+  @@map("settings")
+}

@@ -1,0 +1,17 @@
+{
+  "common": {
+    "appName": "HamdanMart",
+    "language": "Language",
+    "bengali": "বাংলা",
+    "english": "English"
+  },
+  "meta": {
+    "title": "HamdanMart — Online Shopping in Bangladesh",
+    "description": "Quality products, fair prices, fast delivery across Bangladesh. Cash on delivery, bKash, Nagad and Rocket supported."
+  },
+  "home": {
+    "title": "Welcome to HamdanMart",
+    "subtitle": "A modern online shop for Bangladesh — fast, secure, and easy to use.",
+    "status": "Phase 1: Foundation ready"
+  }
+}
