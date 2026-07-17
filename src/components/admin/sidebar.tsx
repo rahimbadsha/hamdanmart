@@ -3,8 +3,11 @@
 import {
   BarChart3,
   Box,
+  Image,
   LayoutDashboard,
   Package,
+  ScrollText,
+  Settings,
   ShoppingCart,
   Tag,
   Ticket,
@@ -24,6 +27,9 @@ const NAV_ITEMS = [
   { href: "/admin/customers", label: "Customers", icon: Users },
   { href: "/admin/coupons", label: "Coupons", icon: Ticket },
   { href: "/admin/analytics", label: "Analytics", icon: BarChart3 },
+  { href: "/admin/media", label: "Media", icon: Image },
+  { href: "/admin/audit-logs", label: "Audit Logs", icon: ScrollText },
+  { href: "/admin/settings", label: "Settings", icon: Settings },
 ] as const;
 
 export function AdminSidebar(): React.ReactElement {

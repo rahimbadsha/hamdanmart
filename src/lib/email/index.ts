@@ -3,14 +3,6 @@ import "server-only";
 import { env } from "@/config/env";
 import { logger } from "@/lib/logger";
 
-/**
- * Email abstraction.
- *
- * Development: messages are logged to the server console (no SMTP needed —
- * verification/reset links are copied from the log).
- * Production: an SMTP transport plugs in here without touching callers.
- */
-
 export interface EmailMessage {
   readonly to: string;
   readonly subject: string;
@@ -18,10 +10,30 @@ export interface EmailMessage {
 }
 
 export async function sendEmail(message: EmailMessage): Promise<void> {
-  if (env.NODE_ENV === "production") {
-    // SMTP transport is configured at deployment time (see DEPLOYMENT.md).
-    throw new Error("SMTP transport not configured");
+  if (
+    env.NODE_ENV === "production" &&
+    env.SMTP_HOST &&
+    env.SMTP_PORT &&
+    env.SMTP_USER &&
+    env.SMTP_PASS
+  ) {
+    const nodemailer = await import("nodemailer");
+    const transporter = nodemailer.createTransport({
+      host: env.SMTP_HOST,
+      port: env.SMTP_PORT,
+      secure: env.SMTP_PORT === 465,
+      auth: { user: env.SMTP_USER, pass: env.SMTP_PASS },
+    });
+    await transporter.sendMail({
+      from: env.SMTP_FROM ?? `HamdanMart <${env.SMTP_USER}>`,
+      to: message.to,
+      subject: message.subject,
+      text: message.text,
+    });
+    logger.info({ to: message.to, subject: message.subject }, "email sent via SMTP");
+    return;
   }
+
   logger.info(
     { to: message.to, subject: message.subject },
     `\n--- EMAIL (dev console transport) ---\nTo: ${message.to}\nSubject: ${message.subject}\n\n${message.text}\n--- END EMAIL ---`,

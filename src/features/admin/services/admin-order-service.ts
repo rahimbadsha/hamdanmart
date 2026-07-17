@@ -3,6 +3,8 @@ import "server-only";
 import { requirePermission } from "@/lib/auth/guards";
 import { ORDER_STATUSES, type OrderStatus } from "@/lib/constants";
 import { db } from "@/lib/db";
+import { sendEmail } from "@/lib/email";
+import { orderStatusUpdateEmail } from "@/lib/email/templates";
 import { ConflictError, NotFoundError, ValidationError } from "@/lib/errors";
 import { logger } from "@/lib/logger";
 
@@ -105,6 +107,16 @@ export async function updateOrderStatus(
     before: { status: order.status },
     after: { status: newStatus, note },
   });
+
+  if (order.customerEmail) {
+    sendEmail(
+      orderStatusUpdateEmail(order.customerEmail, {
+        orderNumber,
+        customerName: order.customerName,
+        newStatus,
+      }),
+    ).catch((err) => logger.warn({ err }, "failed to send status update email"));
+  }
 
   logger.info(
     { orderNumber, from: order.status, to: newStatus },

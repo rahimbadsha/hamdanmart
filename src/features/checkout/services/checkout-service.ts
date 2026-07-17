@@ -2,6 +2,8 @@ import "server-only";
 
 import { getCurrentUser } from "@/lib/auth/session";
 import { db } from "@/lib/db";
+import { sendEmail } from "@/lib/email";
+import { orderConfirmationEmail } from "@/lib/email/templates";
 import { ConflictError, ValidationError } from "@/lib/errors";
 import { logger } from "@/lib/logger";
 import { enforceRateLimit } from "@/lib/rate-limit";
@@ -230,6 +232,20 @@ export async function placeOrder(input: CheckoutInput): Promise<PlaceOrderResult
         postalCode: input.shippingPostalCode ?? null,
       })
       .catch((error) => logger.warn({ err: error }, "failed to save address"));
+  }
+
+  if (input.customerEmail) {
+    sendEmail(
+      orderConfirmationEmail(input.customerEmail, {
+        orderNumber,
+        customerName: input.customerName,
+        totalPoisha,
+        itemCount: cart.items.length,
+        paymentMethod: input.paymentMethod,
+      }),
+    ).catch((error) =>
+      logger.warn({ err: error }, "failed to send order confirmation email"),
+    );
   }
 
   logger.info({ orderNumber, totalPoisha }, "order placed");
