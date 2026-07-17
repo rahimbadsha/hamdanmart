@@ -9,6 +9,7 @@ import { routing } from "./i18n/routing";
 export default createMiddleware(routing);
 
 export const config = {
-  // Skip API routes, Next internals, and static files (anything with a dot).
-  matcher: "/((?!api|_next|_vercel|.*\\..*).*)",
+  // Skip API routes, the admin area (English-only, no locale prefix),
+  // Next internals, and static files (anything with a dot).
+  matcher: "/((?!api|admin|_next|_vercel|.*\\..*).*)",
 };

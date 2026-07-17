@@ -1,0 +1,90 @@
+{
+  "main": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Waterproof Bed Sheet",
+      "url": "/product-category/waterproof-bed-sheet/",
+      "children": [
+        {
+          "label": "Size: 6*7 feet",
+          "url": "/product-category/waterproof-bed-sheet-67-ft/"
+        },
+        {
+          "label": "Size: 7*8 feet",
+          "url": "/product-category/wterproof-bed-sheet-78-ft/"
+        }
+      ]
+    },
+    {
+      "label": "Cotton Bed Sheet",
+      "url": "/product-category/cotton_bedsheet/"
+    },
+    {
+      "label": "Girl Fashion",
+      "url": "/product-category/girlfashion/",
+      "children": [
+        {
+          "label": "Burka",
+          "url": "/product-category/burka/"
+        },
+        {
+          "label": "Hijab",
+          "url": "/product-category/hijab/"
+        },
+        {
+          "label": "Khimar",
+          "url": "/product-category/khimar/"
+        }
+      ]
+    },
+    {
+      "label": "Perfume",
+      "url": "/product-category/perfume/"
+    },
+    {
+      "label": "Panjabi",
+      "url": "/product-category/panjabi/"
+    },
+    {
+      "label": "T-shirt",
+      "url": "/product-category/t-shirt/"
+    },
+    {
+      "label": "Trouser",
+      "url": "/product-category/trouser/"
+    }
+  ],
+  "footer": [
+    {
+      "label": "About Us",
+      "url": "/about-us/"
+    },
+    {
+      "label": "Our Shop",
+      "url": "/shop/"
+    },
+    {
+      "label": "Order Tracking",
+      "url": "/order-tracking/"
+    },
+    {
+      "label": "Contact Us",
+      "url": "/contact-us/"
+    },
+    {
+      "label": "Privacy Policy",
+      "url": "/privacy-policy/"
+    },
+    {
+      "label": "Terms & Condition",
+      "url": "/terms-condition/"
+    },
+    {
+      "label": "Refund and Returns Policy",
+      "url": "/refund-and-returns-policy/"
+    }
+  ]
+}

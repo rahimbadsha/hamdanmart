@@ -71,6 +71,7 @@ Fixed two-language design: bilingual columns on content tables (e.g. `name_en`, 
 - Unique constraints: user email, product slug, category slug, coupon code, order number.
 - Avoid duplicated data.
 - Store money as integer (poisha / smallest unit) — never float.
+- Status/type fields are String columns (SQLite has no enums). Valid values are defined once in `src/lib/constants.ts` and enforced with Zod — never write status string literals elsewhere.
 - Snapshot pricing on order_items (price at purchase time), so later price changes never alter old orders.
 - Use transactions for checkout: stock decrement + order creation + payment record must be atomic.
 - Guest cart: cart row with nullable userId + sessionToken; merge into user cart on login.

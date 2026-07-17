@@ -1,0 +1,110 @@
+[
+  {
+    "id": 79,
+    "name": "Burka",
+    "slug": "burka",
+    "parent": 0,
+    "count": 0,
+    "image": null,
+    "permalink": "https://hamdanmart.com/product-category/burka/"
+  },
+  {
+    "id": 109,
+    "name": "Cotton Bed Sheet",
+    "slug": "cotton_bedsheet",
+    "parent": 0,
+    "count": 4,
+    "image": null,
+    "permalink": "https://hamdanmart.com/product-category/cotton_bedsheet/"
+  },
+  {
+    "id": 47,
+    "name": "Girl Fashion",
+    "slug": "girlfashion",
+    "parent": 0,
+    "count": 0,
+    "image": null,
+    "permalink": "https://hamdanmart.com/product-category/girlfashion/"
+  },
+  {
+    "id": 80,
+    "name": "Hijab",
+    "slug": "hijab",
+    "parent": 0,
+    "count": 0,
+    "image": null,
+    "permalink": "https://hamdanmart.com/product-category/hijab/"
+  },
+  {
+    "id": 81,
+    "name": "Khimar",
+    "slug": "khimar",
+    "parent": 0,
+    "count": 0,
+    "image": null,
+    "permalink": "https://hamdanmart.com/product-category/khimar/"
+  },
+  {
+    "id": 75,
+    "name": "Panjabi",
+    "slug": "panjabi",
+    "parent": 0,
+    "count": 0,
+    "image": "https://hamdanmart.com/wp-content/uploads/2025/05/10025-ওয়াটারপ্রুফ-বেডশিট_20250429_190157_0000-scaled.png",
+    "permalink": "https://hamdanmart.com/product-category/panjabi/"
+  },
+  {
+    "id": 77,
+    "name": "Perfume",
+    "slug": "perfume",
+    "parent": 0,
+    "count": 0,
+    "image": "https://hamdanmart.com/wp-content/uploads/2025/05/10025-ওয়াটারপ্রুফ-বেডশিট_20250429_190157_0000-scaled.png",
+    "permalink": "https://hamdanmart.com/product-category/perfume/"
+  },
+  {
+    "id": 26,
+    "name": "Size: 6*7 feet",
+    "slug": "waterproof-bed-sheet-67-ft",
+    "parent": 0,
+    "count": 16,
+    "image": "https://hamdanmart.com/wp-content/uploads/2025/05/10025-ওয়াটারপ্রুফ-বেডশিট_20250429_190157_0000-scaled.png",
+    "permalink": "https://hamdanmart.com/product-category/waterproof-bed-sheet-67-ft/"
+  },
+  {
+    "id": 27,
+    "name": "Size: 7*8 feet",
+    "slug": "wterproof-bed-sheet-78-ft",
+    "parent": 0,
+    "count": 19,
+    "image": "https://hamdanmart.com/wp-content/uploads/2025/05/10025-ওয়াটারপ্রুফ-বেডশিট_20250429_190157_0000-scaled.png",
+    "permalink": "https://hamdanmart.com/product-category/wterproof-bed-sheet-78-ft/"
+  },
+  {
+    "id": 82,
+    "name": "T-shirt",
+    "slug": "t-shirt",
+    "parent": 0,
+    "count": 0,
+    "image": null,
+    "permalink": "https://hamdanmart.com/product-category/t-shirt/"
+  },
+  {
+    "id": 83,
+    "name": "Trouser",
+    "slug": "trouser",
+    "parent": 0,
+    "count": 0,
+    "image": null,
+    "permalink": "https://hamdanmart.com/product-category/trouser/"
+  },
+  {
+    "id": 23,
+    "name": "Waterproof Bed Sheet",
+    "slug": "waterproof-bed-sheet",
+    "parent": 0,
+    "count": 33,
+    "image": "https://hamdanmart.com/wp-content/uploads/2025/05/10025-ওয়াটারপ্রুফ-বেডশিট_20250429_190157_0000-scaled.png",
+    "permalink": "https://hamdanmart.com/product-category/waterproof-bed-sheet/"
+  }
+]

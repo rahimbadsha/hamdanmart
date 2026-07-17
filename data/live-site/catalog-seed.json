@@ -1,0 +1,530 @@
+[
+  {
+    "slug": "apx",
+    "nameEn": "APX",
+    "nameBn": "APX",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-30-at-10.21.56-AM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-30-at-10.21.57-AM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-30-at-10.22.12-AM.webp"
+    ],
+    "variants": [
+      {
+        "sku": "APX-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1250.0,
+        "regular": 1450.0,
+        "inStock": true
+      },
+      {
+        "sku": "APX-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1450.0,
+        "regular": 1650.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "artic",
+    "nameEn": "Artic",
+    "nameBn": "Artic",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-4.54.27-PM-1.webp"
+    ],
+    "variants": [
+      {
+        "sku": "Artic-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1090.0,
+        "regular": 1390.0,
+        "inStock": true
+      },
+      {
+        "sku": "Artic-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1290.0,
+        "regular": 1590.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "avelin-3d-printed",
+    "nameEn": "Avelin 3D printed",
+    "nameBn": "Avelin 3D printed",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2025/11/WhatsApp-Image-2026-05-09-at-6.23.31-PM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/11/WhatsApp-Image-2026-05-09-at-6.17.51-PM.webp"
+    ],
+    "variants": [
+      {
+        "sku": "AVL-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1350.0,
+        "regular": 1550.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "azure",
+    "nameEn": "Azure",
+    "nameBn": "Azure",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-6.58.40-PM-2.webp"
+    ],
+    "variants": [
+      {
+        "sku": "Azure-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1150.0,
+        "regular": 1350.0,
+        "inStock": true
+      },
+      {
+        "sku": "Azure-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1350.0,
+        "regular": 1550.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "bottomland",
+    "nameEn": "Bottomland",
+    "nameBn": "Bottomland",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-29-at-9.19.05-PM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-29-at-7.54.48-PM.webp"
+    ],
+    "variants": [
+      {
+        "sku": "Bottomland-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1250.0,
+        "regular": 1450.0,
+        "inStock": true
+      },
+      {
+        "sku": "Bottomland-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1450.0,
+        "regular": 1650.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "brownwood",
+    "nameEn": "Brownwood",
+    "nameBn": "Brownwood",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2025/10/Brownwood.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-01-at-5.55.50-PM-1.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-01-at-5.55.50-PM.webp"
+    ],
+    "variants": [
+      {
+        "sku": "BW-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1190.0,
+        "regular": 1390.0,
+        "inStock": true
+      },
+      {
+        "sku": "BW-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1390.0,
+        "regular": 1590.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "eloria",
+    "nameEn": "Eloria",
+    "nameBn": "Eloria",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-09-at-6.24.50-PM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-09-at-6.24.52-PM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-09-at-6.24.51-PM-1.webp"
+    ],
+    "variants": [
+      {
+        "sku": "Eloria-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1150.0,
+        "regular": 1350.0,
+        "inStock": true
+      },
+      {
+        "sku": "Eloria-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1350.0,
+        "regular": 1550.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "florin-3d-printed",
+    "nameEn": "Florin 3D printed",
+    "nameBn": "Florin 3D printed",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2025/11/WhatsApp-Image-2026-05-09-at-5.38.18-PM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/11/WhatsApp-Image-2026-05-09-at-5.38.19-PM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/11/WhatsApp-Image-2026-05-09-at-5.38.19-PM-1.webp"
+    ],
+    "variants": [
+      {
+        "sku": "FRN-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1350.0,
+        "regular": 1550.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "glacier",
+    "nameEn": "Glacier",
+    "nameBn": "Glacier",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-10-at-7.51.26-PM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-10-at-7.51.27-PM.webp"
+    ],
+    "variants": [
+      {
+        "sku": "Glacier-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1090.0,
+        "regular": 1390.0,
+        "inStock": true
+      },
+      {
+        "sku": "Glacier-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1290.0,
+        "regular": 1590.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "gridnest",
+    "nameEn": "GridNest",
+    "nameBn": "GridNest",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-21-at-2.04.12-PM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-21-at-2.04.11-PM.webp"
+    ],
+    "variants": [
+      {
+        "sku": "GridNest-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1190.0,
+        "regular": 1390.0,
+        "inStock": true
+      },
+      {
+        "sku": "GridNest-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1390.0,
+        "regular": 1590.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "majesty",
+    "nameEn": "Majesty",
+    "nameBn": "Majesty",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-04-24-at-9.32.35-PM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-04-24-at-9.32.38-PM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-07-08-at-3.25.40-PM.webp"
+    ],
+    "variants": [
+      {
+        "sku": "Majesty-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1090.0,
+        "regular": 1390.0,
+        "inStock": true
+      },
+      {
+        "sku": "Majesty-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1290.0,
+        "regular": 1590.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "max",
+    "nameEn": "Max",
+    "nameBn": "Max",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2025/07/MAX.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-30-at-3.45.41-PM-1.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-30-at-3.45.41-PM-2.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-30-at-3.45.41-PM.webp"
+    ],
+    "variants": [
+      {
+        "sku": "MAX-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1150.0,
+        "regular": 1390.0,
+        "inStock": true
+      },
+      {
+        "sku": "MAX-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1350.0,
+        "regular": 1590.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "onyx",
+    "nameEn": "ONYX",
+    "nameBn": "ONYX",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2026/06/ONYX.webp",
+      "https://hamdanmart.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-16-at-7.54.08-PM.webp",
+      "https://hamdanmart.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-16-at-7.54.07-PM-1.webp"
+    ],
+    "variants": [
+      {
+        "sku": "ONYX-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1090.0,
+        "regular": 1290.0,
+        "inStock": true
+      },
+      {
+        "sku": "ONYX-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1290.0,
+        "regular": 1490.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "pinkara",
+    "nameEn": "Pinkara",
+    "nameBn": "Pinkara",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-6.58.39-PM-1.webp",
+      "https://hamdanmart.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-7.51.50-PM-3.webp"
+    ],
+    "variants": [
+      {
+        "sku": "Pinkara-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1350.0,
+        "regular": 1550.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "solid-copy-color",
+    "nameEn": "Solid Copy Color",
+    "nameBn": "Solid Copy Color",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2025/11/WhatsApp-Image-2026-07-05-at-4.54.27-PM-1.webp"
+    ],
+    "variants": [
+      {
+        "sku": "Copy-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1250.0,
+        "regular": 1450.0,
+        "inStock": true
+      },
+      {
+        "sku": "Copy-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1450.0,
+        "regular": 1590.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "solid-orange-color",
+    "nameEn": "Solid Orange Color",
+    "nameBn": "Solid Orange Color",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-05-at-4.54.27-PM.webp"
+    ],
+    "variants": [
+      {
+        "sku": "Orange-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1250.0,
+        "regular": 1450.0,
+        "inStock": true
+      },
+      {
+        "sku": "Orange-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1450.0,
+        "regular": 1590.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "strata",
+    "nameEn": "Strata",
+    "nameBn": "Strata",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": [
+      "https://hamdanmart.com/wp-content/uploads/2025/02/6e43943a-418c-4b7d-937c-091f2c8ef9aa.webp",
+      "https://hamdanmart.com/wp-content/uploads/2025/02/Wp-3.webp"
+    ],
+    "variants": [
+      {
+        "sku": "S-67",
+        "nameEn": "6×7 ft (Double)",
+        "nameBn": "৬×৭ ফুট (ডাবল)",
+        "price": 1250.0,
+        "regular": 1450.0,
+        "inStock": true
+      },
+      {
+        "sku": "S-78",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 1450.0,
+        "regular": 1650.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "baby-kolka-4pcs",
+    "nameEn": "Baby Kolka Katha (4 pcs)",
+    "nameBn": "৪ পিসের ওয়াটারপ্রুফ বেবি কোলকাঁথা",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": ["https://hamdanmart.com/wp-content/uploads/2025/02/wp-13.webp"],
+    "variants": [
+      {
+        "sku": "BS-04",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 750.0,
+        "regular": 1000.0,
+        "inStock": true
+      }
+    ]
+  },
+  {
+    "slug": "baby-kolka-5pcs",
+    "nameEn": "Baby Kolka Katha (5 pcs)",
+    "nameBn": "৫ পিসের ওয়াটারপ্রুফ বেবি কোলকাঁথা",
+    "category": "waterproof-bed-sheet",
+    "descEn": "100% waterproof bed sheet.\nFixed price for every product.\nCash on delivery — pay when you receive the product.\nDelivery charge ৳100 nationwide.\nHome delivery within 2-4 working days across Bangladesh.\nReturnable (delivery charge applies) if you are not satisfied.",
+    "descBn": "১০০% ওয়াটারপ্রুফ বেড শিট।\nপ্রতিটা প্রোডাক্টই ফিক্সড প্রাইস।\nপ্রোডাক্ট হাতে পেয়ে পেমেন্ট করুন (ক্যাশ অন ডেলিভারি)।\nসারাদেশে ডেলিভারি চার্জ ১০০ টাকা।\nসারাদেশে ২-৪ কার্যদিবসের মধ্যে হোম ডেলিভারি।\nপছন্দ না হলে ডেলিভারি চার্জ দিয়ে রিটার্ন করা যাবে।",
+    "images": ["https://hamdanmart.com/wp-content/uploads/2025/02/wp-13.webp"],
+    "variants": [
+      {
+        "sku": "BS-05",
+        "nameEn": "7×8 ft (King)",
+        "nameBn": "৭×৮ ফুট (কিং)",
+        "price": 900.0,
+        "regular": 1250.0,
+        "inStock": true
+      }
+    ]
+  }
+]
